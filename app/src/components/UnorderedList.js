@@ -99,8 +99,6 @@ export default class UnorderedList extends Component {
                   </li>
           }
 
-          // lives
-
           if (item.class === 'lives') {
 
             const name = {

@@ -1,3 +1,5 @@
+/* Компонент используется для рендернинга картинок завернутых в тег а*/
+
 import {Component} from 'react';
 
 export default class LinkImg extends Component {

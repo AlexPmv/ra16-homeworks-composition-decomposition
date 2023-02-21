@@ -1,3 +1,5 @@
+/* Компонент используется для рендернинга текста завернутого в тег а*/
+
 import {Component} from 'react';
 
 export default class LinkText extends Component {

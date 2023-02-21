@@ -1,3 +1,6 @@
+/* Компонент используется для рендернинга элемента li в списке*/
+
+
 import {Component} from 'react';
 
 export default class ListItem extends Component {

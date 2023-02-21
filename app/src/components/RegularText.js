@@ -1,3 +1,6 @@
+/* Компонент используется для рендернинга простого текста*/
+
+
 import {Component} from 'react';
 
 export default class RegularText extends Component {
